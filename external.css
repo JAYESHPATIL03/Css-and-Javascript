@@ -1,0 +1,22 @@
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+    
+}
+.p1{
+    color: chartreuse;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:30px;
+    text-decoration:blink;
+    text-align: center;  
+    background-color: red;
+}
+#p2{
+    font-size: 35px;
+    background-color: aqua;
+    font-style: oblique;
+    font-family: fantasy;
+}
+}
